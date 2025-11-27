@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{F36492FC-1761-4C35-87E3-1FE318FAA24F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventProcessor", "EventProcessor\EventProcessor.csproj", "{7A3ED529-374F-40D2-917A-7F966B062899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventGenerator", "EventGenerator\EventGenerator.csproj", "{BA1868B0-B077-4141-AF58-7F4CCC566FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36492FC-1761-4C35-87E3-1FE318FAA24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36492FC-1761-4C35-87E3-1FE318FAA24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36492FC-1761-4C35-87E3-1FE318FAA24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36492FC-1761-4C35-87E3-1FE318FAA24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A3ED529-374F-40D2-917A-7F966B062899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3ED529-374F-40D2-917A-7F966B062899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3ED529-374F-40D2-917A-7F966B062899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3ED529-374F-40D2-917A-7F966B062899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1868B0-B077-4141-AF58-7F4CCC566FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1868B0-B077-4141-AF58-7F4CCC566FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1868B0-B077-4141-AF58-7F4CCC566FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1868B0-B077-4141-AF58-7F4CCC566FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
